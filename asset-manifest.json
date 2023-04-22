@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/starish-shubham.github.io/Text-App/static/css/main.37e702f5.css",
+    "main.js": "/starish-shubham.github.io/Text-App/static/js/main.ca50df8b.js",
+    "static/media/logo.png": "/starish-shubham.github.io/Text-App/static/media/logo.c82d736c0020813513d9.png",
+    "index.html": "/starish-shubham.github.io/Text-App/index.html",
+    "main.37e702f5.css.map": "/starish-shubham.github.io/Text-App/static/css/main.37e702f5.css.map",
+    "main.ca50df8b.js.map": "/starish-shubham.github.io/Text-App/static/js/main.ca50df8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37e702f5.css",
+    "static/js/main.ca50df8b.js"
+  ]
+}
